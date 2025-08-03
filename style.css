@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+  }
+  
+  input {
+    width: 60%;
+    padding: 10px;
+    margin-top: 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    margin-left: 10px;
+    background-color: forestgreen;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: darkgreen;
+  }
+  
+  #results {
+    margin-top: 20px;
+  }
+  
+  .card {
+    background-color: white;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    text-align: left;
+  }
+  
+  .card img {
+    max-width: 100px;
+    float: left;
+    margin-right: 15px;
+  }
+  
+  .card h3 {
+    margin: 0;
+  }
+  
+  .clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
