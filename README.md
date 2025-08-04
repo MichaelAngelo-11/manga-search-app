@@ -160,7 +160,7 @@ Update your app to read from environment variables instead of hardcoded strings.
 
 **Michael Angelo**
 
-* GitHub: [@michaelangelo11](https://github.com/michaelangelo11)
+* GitHub: [@MichaelAngelo-11](https://github.com/MichaelAngelo-11)
 * Docker Hub: [@michaelangelo11](https://hub.docker.com/u/michaelangelo11)
 
 ---
